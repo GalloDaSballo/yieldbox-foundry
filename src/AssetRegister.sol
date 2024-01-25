@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.17;
+pragma solidity ^0.8.20;
 import "./interfaces/IStrategy.sol";
 import "@boringcrypto/boring-solidity/contracts/libraries/BoringAddress.sol";
 import "./ERC1155.sol";
