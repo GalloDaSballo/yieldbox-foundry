@@ -7,7 +7,6 @@ solc_version="0.8.20"
 remappings = [
   "@boringcrypto/boring-solidity/=lib/BoringSolidity/",
   "@openzeppelin/=lib/openzeppelin-contracts/",
-  "@chimera/=lib/chimera/src/"
 ]
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
